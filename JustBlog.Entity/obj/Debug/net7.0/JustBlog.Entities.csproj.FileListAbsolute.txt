@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\bin\Debug\net7.0\JustBlog.Entities.deps.json
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\bin\Debug\net7.0\JustBlog.Entities.runtimeconfig.json
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\bin\Debug\net7.0\JustBlog.Entities.dll
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\bin\Debug\net7.0\JustBlog.Entities.pdb
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\JustBlog.Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\JustBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\JustBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\JustBlog.Entities.AssemblyInfo.cs
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\JustBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\JustBlog.Entities.dll
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\refint\JustBlog.Entities.dll
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\JustBlog.Entities.pdb
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\JustBlog.Entities.genruntimeconfig.cache
+C:\Users\Admin\Downloads\JustBlog\JustBlog\JustBlog.Entities\obj\Debug\net7.0\ref\JustBlog.Entities.dll
